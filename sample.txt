@@ -1,4 +1,6 @@
 a=input("Enter the Name:")
 b=iput("Enter the Department:")
+c= input("Enter the College Name:")
 print(a,b)
+print(c)
 
