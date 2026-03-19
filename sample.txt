@@ -1,0 +1,4 @@
+a=input("Enter the Name:")
+b=iput("Enter the Department:")
+print(a,b)
+
